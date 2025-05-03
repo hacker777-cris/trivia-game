@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-sir5ip-@*mx#gy&j0k$@9el!ni=6d)h&%l*qz)a%b)s0%8&gr7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["trivia.maev.rocks"]
 
 
 # Application definition
